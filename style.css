@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #76b2d4;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.container{
+    border-style: solid;
+    border-color: black;
+    background-color: #eee;
+    border-radius: 15px;
+    -webkit-box-shadow: 5px 3px 14px 5px rgba(0,0,0,0.56); 
+    box-shadow: 5px 3px 14px 5px rgba(0,0,0,0.56);
+    margin: 250px 250px;
+    width: auto;
+}
+
+.row, .top, .base{
+    text-align: center;
+    padding: 5px;
+}
